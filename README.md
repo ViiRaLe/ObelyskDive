@@ -1,3 +1,3 @@
 # ObelyskDive
 
-https://gitlab.com/ViiRaL/ObelyskDive
+https://viirale.github.io/obelyskdive
